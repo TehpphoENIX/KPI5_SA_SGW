@@ -11,5 +11,5 @@
 \contentsline {chapter}{\numberline {7}Діаграма класів}{9}{}%
 \contentsline {chapter}{\numberline {8}Структура бази даних}{10}{}%
 \contentsline {chapter}{\numberline {9}Можливі альтернативні рішення}{11}{}%
-\contentsline {chapter}{\numberline {10}Прогрноз розвитку}{12}{}%
-\contentsline {chapter}{\numberline {11}Висновки}{13}{}%
+\contentsline {chapter}{\numberline {10}Прогрноз розвитку}{13}{}%
+\contentsline {chapter}{\numberline {11}Висновки}{14}{}%

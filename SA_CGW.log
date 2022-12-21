@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.17)  14 DEC 2022 10:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.17)  21 DEC 2022 12:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -31,6 +31,8 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen141
+) (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 ) (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count194
@@ -1305,17 +1307,35 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \bigstrutjot=\dimen163
 ) (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen164
+\ar@mcellbox=\box57
+\extrarowheight=\dimen165
+\NC@list=\toks27
+\extratabsurround=\skip63
+\backup@length=\skip64
+\ar@cellbox=\box58
+) (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen166
+\TX@old@table=\dimen167
+\TX@old@col=\dimen168
+\TX@target=\dimen169
+\TX@delta=\dimen170
+\TX@cols=\count278
+\TX@ftn=\toks28
 )
-LaTeX Font Info:    Trying to load font information for T1+Tempora-TLF on input line 63.
+LaTeX Font Info:    Trying to load font information for T1+Tempora-TLF on input line 66.
  (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t1tempora-tlf.fd
 File: T1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for T1/Tempora-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 63.
+(Font)              scaled to size 14.4pt on input line 66.
  (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count278
-\l__pdf_internal_box=\box57
+\l__color_backend_stack_int=\count279
+\l__pdf_internal_box=\box59
 ) (SA_CGW.aux (TitlepageCGWTeam.aux)
 LaTeX Font Info:    Trying to load font information for T2A+Tempora-TLF on input line 6.
  (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t2atempora-tlf.fd
@@ -1326,47 +1346,47 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 )
 \openout1 = `SA_CGW.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 63.
-LaTeX Font Info:    Trying to load font information for OT2+cmr on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 66.
+LaTeX Font Info:    Trying to load font information for OT2+cmr on input line 66.
  (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\ot2cmr.fd
 File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 63.
-LaTeX Font Info:    Trying to load font information for T2C+cmr on input line 63.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 66.
+LaTeX Font Info:    Trying to load font information for T2C+cmr on input line 66.
  (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 63.
-LaTeX Font Info:    Trying to load font information for T2B+cmr on input line 63.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 66.
+LaTeX Font Info:    Trying to load font information for T2B+cmr on input line 66.
  (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 63.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 63.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 66.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 66.
  (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Info: Redefining \th on input line 63.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Info: Redefining \th on input line 66.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1404,26 +1424,26 @@ LaTeX Info: Redefining \th on input line 63.
 
 (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count279
-\scratchdimen=\dimen164
-\scratchbox=\box58
-\nofMPsegments=\count280
-\nofMParguments=\count281
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count282
-\MPscratchDim=\dimen165
-\MPnumerator=\count283
-\makeMPintoPDFobject=\count284
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count280
+\scratchdimen=\dimen171
+\scratchbox=\box60
+\nofMPsegments=\count281
+\nofMParguments=\count282
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count283
+\MPscratchDim=\dimen172
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
+\everyMPtoPDFconversion=\toks30
 ) (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@mv@tabular=\count285
-\c@mv@boldtabular=\count286
-\c@lstlisting=\count287
+\c@mv@tabular=\count286
+\c@mv@boldtabular=\count287
+\c@lstlisting=\count288
 \openout2 = `TitlepageCGWTeam.aux'.
 
  (TitlepageCGWTeam.tex
@@ -1450,93 +1470,104 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 
 ]
 {\cyrillictext \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--87
-
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+Tempora-TLF on input line 90.
+LaTeX Font Info:    Trying to load font information for TS1+Tempora-TLF on input line 108.
 (C:\Users\Krokokoko\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ts1tempora-tlf.fd
 File: TS1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for TS1/Tempora-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 90.
+(Font)              scaled to size 14.4pt on input line 108.
  [3
 
 ] [4]
 {\cyrillictext \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 3.
+<img/ProblemsDiagram.jpg, id=20, 770.88pt x 296.90926pt>
+File: img/ProblemsDiagram.jpg Graphic file (type jpg)
+<use img/ProblemsDiagram.jpg>
+Package pdftex.def Info: img/ProblemsDiagram.jpg  used on input line 116.
+(pdftex.def)             Requested size: 500.484pt x 192.76219pt.
 [5
 
-]
+ <./img/ProblemsDiagram.jpg>]
 {\cyrillictext \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 4.
+<img/TaskDiagram.jpg, id=24, 721.4955pt x 770.88pt>
+File: img/TaskDiagram.jpg Graphic file (type jpg)
+<use img/TaskDiagram.jpg>
+Package pdftex.def Info: img/TaskDiagram.jpg  used on input line 118.
+(pdftex.def)             Requested size: 500.484pt x 534.75435pt.
 [6
 
-]
+ <./img/TaskDiagram.jpg>]
 {\cyrillictext \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 5.
-<img/UseCaseDiagram.png, id=27, 731.73375pt x 957.5775pt>
+<img/UseCaseDiagram.png, id=29, 731.73375pt x 957.5775pt>
 File: img/UseCaseDiagram.png Graphic file (type png)
 <use img/UseCaseDiagram.png>
-Package pdftex.def Info: img/UseCaseDiagram.png  used on input line 102.
+Package pdftex.def Info: img/UseCaseDiagram.png  used on input line 120.
 (pdftex.def)             Requested size: 500.484pt x 654.95767pt.
 [7
 
  <./img/UseCaseDiagram.png>]
 {\cyrillictext \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 6.
-<img/ActivityDiagram.png, id=33, 1130.72438pt x 543.53062pt>
+<img/ActivityDiagram.png, id=35, 1130.72438pt x 543.53062pt>
 File: img/ActivityDiagram.png Graphic file (type png)
 <use img/ActivityDiagram.png>
-Package pdftex.def Info: img/ActivityDiagram.png  used on input line 104.
+Package pdftex.def Info: img/ActivityDiagram.png  used on input line 122.
 (pdftex.def)             Requested size: 500.484pt x 240.5724pt.
 [8
 
  <./img/ActivityDiagram.png>]
 {\cyrillictext \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 7.
-<img/ClassDiagram.drawio.png, id=38, 1152.305pt x 1640.1275pt>
+<img/ClassDiagram.drawio.png, id=40, 1152.305pt x 1640.1275pt>
 File: img/ClassDiagram.drawio.png Graphic file (type png)
 <use img/ClassDiagram.drawio.png>
-Package pdftex.def Info: img/ClassDiagram.drawio.png  used on input line 106.
+Package pdftex.def Info: img/ClassDiagram.drawio.png  used on input line 124.
 (pdftex.def)             Requested size: 500.484pt x 712.37358pt.
 [9
 
  <./img/ClassDiagram.drawio.png>]
 {\cyrillictext \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 8.
-<img/ER.drawio.png, id=43, 673.51625pt x 522.95375pt>
+<img/ER.drawio.png, id=45, 673.51625pt x 522.95375pt>
 File: img/ER.drawio.png Graphic file (type png)
 <use img/ER.drawio.png>
-Package pdftex.def Info: img/ER.drawio.png  used on input line 108.
+Package pdftex.def Info: img/ER.drawio.png  used on input line 126.
 (pdftex.def)             Requested size: 500.484pt x 388.60756pt.
 [10
 
  <./img/ER.drawio.png>]
 {\cyrillictext \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 9.
+
+Underfull \hbox (badness 7133) in paragraph at lines 150--150
+[]|\T2A/Tempora-TLF/m/n/14.4 „ас на до-став-
+ []
+
 [11
 
 ]
+<img/DecisionTree.png, id=53, 720.44156pt x 493.0922pt>
+File: img/DecisionTree.png Graphic file (type png)
+<use img/DecisionTree.png>
+Package pdftex.def Info: img/DecisionTree.png  used on input line 161.
+(pdftex.def)             Requested size: 500.484pt x 342.54384pt.
+ [12 <./img/DecisionTree.png>]
 {\cyrillictext \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 10.
-[12
+[13
 
 ]
 {\cyrillictext \CYRR \cyro \cyrz \cyrd \cyrii \cyrl } 11.
-[13
+[14
 
 ] (SA_CGW.aux (TitlepageCGWTeam.aux)) ) 
 Here is how much of TeX's memory you used:
- 9231 strings out of 475306
- 153609 string characters out of 2772945
- 489644 words of memory out of 3000000
- 30539 multiletter control sequences out of 15000+600000
+ 9407 strings out of 475306
+ 157151 string characters out of 2772945
+ 494722 words of memory out of 3000000
+ 30702 multiletter control sequences out of 15000+600000
  481216 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,97p,1328b,361s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}{C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/t2a-tempora.enc}<C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb>
-Output written on SA_CGW.pdf (14 pages, 444713 bytes).
+ 57i,11n,97p,1871b,361s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}{C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/t2a-tempora.enc}<C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on SA_CGW.pdf (15 pages, 641653 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 93 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
