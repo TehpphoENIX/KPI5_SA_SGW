@@ -1,0 +1,15 @@
+\babel@toc {ukrainian}{}\relax 
+\contentsline {chapter}{\numberline {1}Вступ}{2}{}%
+\contentsline {chapter}{\numberline {2}Предмет дослідження в даній роботі}{3}{}%
+\contentsline {section}{\numberline {2.1}Опис предмету дослідження}{3}{}%
+\contentsline {section}{\numberline {2.2}Поняття досліджуваного предмету}{3}{}%
+\contentsline {section}{\numberline {2.3}Показники досліджувального предмету}{3}{}%
+\contentsline {chapter}{\numberline {3}Дерево проблем}{5}{}%
+\contentsline {chapter}{\numberline {4}Дерево задач}{6}{}%
+\contentsline {chapter}{\numberline {5}Діаграма прецедентів}{7}{}%
+\contentsline {chapter}{\numberline {6}Діаграма діяльності}{8}{}%
+\contentsline {chapter}{\numberline {7}Діаграма класів}{9}{}%
+\contentsline {chapter}{\numberline {8}Структура бази даних}{10}{}%
+\contentsline {chapter}{\numberline {9}Можливі альтернативні рішення}{11}{}%
+\contentsline {chapter}{\numberline {10}Прогрноз розвитку}{12}{}%
+\contentsline {chapter}{\numberline {11}Висновки}{13}{}%
