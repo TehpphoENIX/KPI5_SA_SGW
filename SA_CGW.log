@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.17)  21 DEC 2022 12:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.17)  22 DEC 2022 13:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1559,13 +1559,13 @@ Package pdftex.def Info: img/DecisionTree.png  used on input line 161.
 Here is how much of TeX's memory you used:
  9407 strings out of 475306
  157151 string characters out of 2772945
- 494722 words of memory out of 3000000
+ 494714 words of memory out of 3000000
  30702 multiletter control sequences out of 15000+600000
  481216 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,97p,1871b,361s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}{C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/t2a-tempora.enc}<C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Krokokoko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on SA_CGW.pdf (15 pages, 641653 bytes).
+Output written on SA_CGW.pdf (15 pages, 641617 bytes).
 PDF statistics:
  93 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
